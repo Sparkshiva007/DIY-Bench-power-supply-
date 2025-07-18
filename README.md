@@ -57,9 +57,8 @@ This project showcases the transformation of a salvaged ATX SMPS (Switch Mode Po
 ## 📁 Repository Contents
 
 - `README.md` – This documentation
-- `parts_list.txt` – Bill of materials
-- `images/` – Build photos and wiring diagrams
-- (Optional) `Arduino_display_code/` – If using a microcontroller-based display
+- `Images/` – Build photos and wiring diagrams
+- `Temperature-cutoff/` - opamp based temperature cutoff 
 
 ---
 
