@@ -1,4 +1,4 @@
-# DIY-Bench-power-supply-
+# DIY-Bench-power-supply
 This project showcases the transformation of a salvaged ATX SMPS (Switch Mode Power Supply) into a reliable and functional bench power supply unit. The design integrates variable voltage and current regulation using potentiometer-based control, making it a versatile tool for electronics prototyping, testing, and development.
 
 ## 🔧 Features
